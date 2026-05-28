@@ -1,0 +1,7 @@
+{
+  "versao_atual": "2.0.0",
+  "url_download_exe": "https://github.com/seu_usuario/verify/releases/download/v1.0.0/seu_arquivo_grande.zip",
+  "usuarios_permitidos": {
+    "56b92647eb69a4932978251a542a43417ae45053b34dbc02913a812d4d0772c7": "2026-12-31"
+  }
+}
